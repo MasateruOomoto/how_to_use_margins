@@ -2,8 +2,11 @@ body {
   padding: 50px; /* 表示したときに見やすくするためのpadding */
 }
 
-.list {
+.wraper {
   border: 3px solid #000; /* 外の黒枠 */
+}
+
+.list {
   display: flex; /* linkの横並び */
 }
 
